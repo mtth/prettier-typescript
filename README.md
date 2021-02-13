@@ -18,3 +18,8 @@ Then, inside `package.json`:
 
 More information:
 https://prettier.io/docs/en/configuration.html#sharing-configurations
+
+## Next steps
+
+We recommend using `prettier` in combination with ESLint, for example
+with [this plugin](https://github.com/mtth/eslint-plugin).
